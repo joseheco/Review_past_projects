@@ -30,4 +30,3 @@ In this section I am correcting some improvement points in the trial project
 ## Show your support
 
 Give a ⭐️ if you like this project!
-
